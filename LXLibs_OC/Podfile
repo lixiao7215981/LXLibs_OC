@@ -1,0 +1,8 @@
+target:LXLibs_OC do
+    platform :ios, '8.0'
+    pod 'LXUtils_OC', :path => '~/Workspaces/GitHubDesktop/LXUtils_OC'
+    pod 'PureLayout'
+    pod 'MJRefresh'
+    pod 'IQKeyboardManager'
+    pod 'SDWebImage'
+end
